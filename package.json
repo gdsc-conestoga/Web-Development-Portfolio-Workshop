@@ -1,0 +1,17 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "src/index.jsx",
+  "devDependencies": {
+    "r3f-pack": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "r3f-pack start",
+    "build": "r3f-pack build"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.6"
+  }
+}
